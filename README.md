@@ -21,4 +21,16 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes made to HTML files:
+HowToTellAStoryAndOther.html
+- Changed p class=toc to class=index
+- Deleted the whole style area that originally came with the page
 
+southseatales.html
+- Changed p class=toc to class=index
+- Deleted the whole style area that originally came with the page
+
+survivaltactics.html
+- Removed div figrght
+- added class center to img
+- added class caption to p

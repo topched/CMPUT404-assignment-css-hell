@@ -1,0 +1,52 @@
+html{
+	background-image:url("images/old-paper3.jpg");
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-attachment:fixed;
+	padding-top: 3%;
+	padding-left: 5%;
+	font-family:cursive;
+
+}
+
+pre{
+	font-size: small;
+	text-align: center;
+	font-family: cursive;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	padding-left: 65px;
+	padding-right: 65px;
+}
+
+hr{
+	width:80%;
+	height: 1px;
+	text-align: center;
+	color: #000000;
+	background-color: #000000;
+}
+
+
+.index{
+	text-align: center;
+}
+
+img.center{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
