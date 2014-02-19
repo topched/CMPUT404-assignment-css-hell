@@ -1,0 +1,63 @@
+html{
+	background-image: url('bround.gif');
+	max-width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header{
+	background: linear-gradient(to top, #FF0000, #FFFF00);
+	overflow: hidden;
+	float:center;
+	font-family: "Acme";
+}
+
+section{
+	padding: 0.75em;
+	font-family: "Acme";
+	color:white;
+}
+
+div.myPhoto{
+	float:left;
+	margin: 1em 4em 1em 6em;
+	box-shadow: 0em 0em 0.25em 0.25em #FF00FF;
+}
+
+div.myIntroText{
+	padding-top: 5em;
+	text-shadow: 5px 5px 5px #FF00FF;
+}
+
+div.myName{
+	font-size: 5em;
+}
+
+div.myTitle{
+	font-size: 3em;
+}
+
+div.sidebar{
+	float:right;
+	background-color: #FFFF00;
+	margin:1em 1em 1em 1em;
+	width:25%;
+	text-align: center;
+
+}
+
+div.content{
+	background-color: #00FF00;
+}
+
+h1{
+	color: red;
+}
+
+h2{
+	color:#66FFCC;
+}
+
+h3{
+	color:#CC7A29;
+}
